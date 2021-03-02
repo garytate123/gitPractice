@@ -1,0 +1,29 @@
+body {
+	background-color: rgb(235, 233, 233);
+}
+
+div {
+	margin: auto;
+	padding: 5%;
+}
+
+form {
+	margin: auto;
+}
+#email {
+	display: block;
+	padding: 5px;
+	margin: 10px;
+	margin-left: 0;
+}
+#txt {
+	display: block;
+	padding: 5px;
+}
+button {
+	padding: 5px;
+	margin: 10px;
+	margin-left: 0;
+	cursor: pointer;
+	border-radius: 5px;
+}
